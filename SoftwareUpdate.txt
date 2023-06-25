@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
